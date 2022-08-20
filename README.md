@@ -24,3 +24,12 @@ following information about each recommendation:
 • Author
 • Rate
 • Content
+
+Product composite service
+The product composite service aggregates information from the three core services
+and presents information about a product as follows:
+• Product information, as described in the product service
+• A list of product reviews for the specified product, as described in the review
+service
+• A list of product recommendations for the specified product, as described in
+the recommendation service
